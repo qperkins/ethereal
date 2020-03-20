@@ -4,6 +4,7 @@
               <div class="tile is-child box">
                 <p class="title">Company</p>
                 <p>
+                so it works tho
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
                   ornare magna eros, eu pellentesque tortor vestibulum ut.
                   Maecenas non massa sem. Etiam finibus odio quis feugiat
