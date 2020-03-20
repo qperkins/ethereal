@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.clear {
+  background-color: transparent;
+}
+
+.has-bg-img {
+  background: url("./bc.jpg") center center;
+  background-size: cover;
+}
