@@ -18,9 +18,9 @@ export default class Home extends React.Component {
               </div>
             </div>
           </div>
-        <div className="hero-foot">
+        <div className="hero-foot middle-bg">
           <div className="container">
-    
+          <text>Hey now</text>
     
         </div>
       </div>

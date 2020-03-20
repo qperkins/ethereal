@@ -45,3 +45,7 @@
   background: url("./bc.jpg") center center;
   background-size: cover;
 }
+.middle-bg {
+background: rgb(113,124,204);
+background: linear-gradient(180deg, rgba(113,124,204,1) 0%, rgba(175,165,173,1) 46%, rgba(210,165,172,1) 78%);
+}
