@@ -14,7 +14,7 @@
               </div>
             </div>
             <div className="tile is-child box">
-              <p class="title">Email Address</p>
+              <p class="title">Email Address(Box 1)</p>
               <p>
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
                 ornare magna eros, eu pellentesque tortor vestibulum ut.
@@ -25,7 +25,7 @@
             </div>
             <div class="tile is-parent">
               <div className="tile is-child box">
-                <p class="title">Provide Details Below</p>
+                <p class="title">Provide Details Below(Box 3)</p>
                 <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
                   ornare magna eros, eu pellentesque tortor vestibulum ut.
