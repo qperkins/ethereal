@@ -1,18 +1,4 @@
-import React from "react";
-export default class Contact extends React.Component {
-  render() {
-    return (
-      <React.Fragment>
-        <section className="hero has-text-centered">
-          <div className="container">
-            <div className="columns is-centered">
-              <div className="column">
-                <h1 className="is-size-1">Contact Us!</h1>
-              </div>
-            </div>
-          </div>
-        </section>
-        <section className="has-text-centered is-large">
+{/* <section className="has-text-centered is-large">
           <div className="tile is-ancestor">
             <div className="tile is-4 is-vertical is-parent">
               <div class="tile is-child box">
@@ -65,8 +51,4 @@ export default class Contact extends React.Component {
               </div>
             </div>
           </div>
-        </section>
-      </React.Fragment>
-    );
-  }
-}
+        </section> */}
