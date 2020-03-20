@@ -1,5 +1,5 @@
 {/* <section className="has-text-centered is-large">
-          <div className="tile is-ancestor">
+          <div className="tile is-ancestor"> 
             <div className="tile is-4 is-vertical is-parent">
               <div class="tile is-child box">
                 <p class="title">Company</p>
