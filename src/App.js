@@ -1,20 +1,25 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Home from './views/home';
+import Contact from './views/contact';
 import Header from './common/header';
 import './App.css';
 
 function App() {
   return (
     <React.Fragment>
-      <div className='has-bg-img'>
+      {/* 
+      while working on pages leave this commented. when done coding something
+      and wanting to push the repo uncomment the divs
+      Use bulma for styling, write custom css app.css
+      <div className='has-bg-img'> */}
       <Header />
        <Router>
           <Switch>
-            <Route path="/" component={Home} />
+            <Route path="/" component={Contact} />
             </Switch>
             </Router>
-           </div>
+           {/* </div> */}
     </React.Fragment>
   );
 }
