@@ -8,7 +8,7 @@ function App() {
   return (
     <React.Fragment>
       <div className='has-bg-img'>
-      <Header />
+      
        <Router>
           <Switch>
             <Route path="/" component={Home} />
