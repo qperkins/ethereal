@@ -12,9 +12,8 @@ function App() {
        <Router>
           <Switch>
             <Route path="/" component={Home} />
-            </Switch>
             <Route path="/contact" component={Contact} />
-            <Route path="*" />
+            </Switch>
             </Router>
 
     </React.Fragment>
