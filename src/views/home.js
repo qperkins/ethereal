@@ -1,4 +1,5 @@
 import React from 'react';
+import Header from '../common/header';
 
 
 import logo from '../logo.png'
@@ -7,6 +8,8 @@ export default class Home extends React.Component {
     render() {
         return (
             <React.Fragment>
+              <div className='has-bg-img'> 
+               <Header />
           <section className="hero has-text-centered">
            
           <div className="hero-body">
@@ -25,6 +28,7 @@ export default class Home extends React.Component {
         </div>
       </div>
       </section>
+      </div>
                 </React.Fragment>
         )
     }

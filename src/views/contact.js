@@ -5,6 +5,7 @@ export default class Contact extends React.Component {
   render() {
     return (
       <React.Fragment>
+        
         <section className="hero has-text-centered">
           <div className="container">
             <div className="columns is-centered">
