@@ -13,6 +13,7 @@ function App() {
             <Route path="/" component={Contact}/>
             </Switch>
             <Route path="/contact" component={Contact} />
+            
             </Router>
            {/* </div> */}
         
