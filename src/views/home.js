@@ -21,11 +21,15 @@ export default class Home extends React.Component {
               </div>
             </div>
           </div>
+<<<<<<< HEAD
 
           
         <div className="hero-foot">
+=======
+        <div className="hero-foot middle-bg">
+>>>>>>> 1824764aeb44eb8dd94fd854cd5ea6f76c2e6960
           <div className="container">
-    
+          <text>Hey now</text>
     
         </div>
       </div>
