@@ -35,7 +35,7 @@ export default class Header extends React.Component {
         <div id="navMenu" className="navbar-menu">
           <div className="navbar-end">
               
-            <a className="navbar-item is-active">
+            <a className="navbar-item is-active" href="etherealwd.com">
             
               Home
               
@@ -43,7 +43,7 @@ export default class Header extends React.Component {
             <a className="navbar-item is-primary">
               About
             </a>
-            <a className="navbar-item is-primary">
+            <a className="navbar-item is-primary" href="etherealwd.com">
               Contact
             </a>
             

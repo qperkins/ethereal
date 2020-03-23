@@ -8,18 +8,14 @@ import './App.css';
 function App() {
   return (
     <React.Fragment>
-      {/* 
-      while working on pages leave this commented. when done coding something
-      and wanting to push the repo uncomment the divs
-      Use bulma for styling, write custom css app.css
-      <div className='has-bg-img'> */}
-      <Header />
        <Router>
           <Switch>
-            <Route path="/" component={Contact} />
+            <Route path="/" component={Home} />
             </Switch>
+            <Route path="/contact" component={Contact} />
             </Router>
            {/* </div> */}
+        
     </React.Fragment>
   );
 }
