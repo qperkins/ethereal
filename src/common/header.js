@@ -35,15 +35,16 @@ export default class Header extends React.Component {
         <div id="navMenu" className="navbar-menu">
           <div className="navbar-end">
               
-            <a className="navbar-item is-active">
+            <a href="etherealwd.com/Home" className="navbar-item is-active">
             
               Home
               
             </a>
-            <a className="navbar-item is-primary">
+            <a href="etherealwd.com/About" className="navbar-item is-primary">
+              
               About
             </a>
-            <a className="navbar-item is-primary">
+            <a href="etherealwd.com/Contact"className="navbar-item is-primary">
               Contact
             </a>
             

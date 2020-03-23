@@ -16,7 +16,7 @@ function App() {
       <Header />
        <Router>
           <Switch>
-            <Route path="/" component={Contact} />
+            <Route path="/" component={Contact}/>
             </Switch>
             </Router>
            {/* </div> */}
