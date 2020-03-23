@@ -8,16 +8,15 @@ import './App.css';
 function App() {
   return (
     <React.Fragment>
-      <div className='has-bg-img'>
-      
+
        <Router>
           <Switch>
             <Route path="/" component={Home} />
             </Switch>
             <Route path="/contact" component={Contact} />
+            <Route path="*" />
             </Router>
-            </div> 
-        
+
     </React.Fragment>
   );
 }
