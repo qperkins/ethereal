@@ -1,11 +1,12 @@
 import React from "react";
+import Header from '../common/header';
 
 
 export default class Contact extends React.Component {
   render() {
     return (
       <React.Fragment>
-        
+        <Header />
         <section className="hero has-text-centered">
           <div className="container">
             <div className="columns is-centered">

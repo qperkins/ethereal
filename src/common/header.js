@@ -1,5 +1,4 @@
 import React from 'react';
-
 import slogo from '../slogo.png'
 
 export default class Header extends React.Component {
@@ -35,7 +34,7 @@ export default class Header extends React.Component {
         <div id="navMenu" className="navbar-menu">
           <div className="navbar-end">
               
-            <a className="navbar-item is-active" href="/contact">
+            <a className="navbar-item is-active">
             
               Home
               
@@ -43,7 +42,7 @@ export default class Header extends React.Component {
             <a className="navbar-item is-primary">
               About
             </a>
-            <a className="navbar-item is-primary" href="etherealwd.com">
+            <a className="navbar-item is-primary" href="/contact">
               Contact
             </a>
             

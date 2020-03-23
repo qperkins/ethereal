@@ -10,7 +10,7 @@ function App() {
     <React.Fragment>
       <Router>
         <Switch>
-          <Route path="/" component={Home} />
+          <Route exact path="/" component={Home} />
           <Route path="/contact" component={Contact} />
         </Switch>
       </Router>
