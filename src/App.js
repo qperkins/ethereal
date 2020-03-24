@@ -10,10 +10,10 @@ function App() {
     <React.Fragment>
        <Router>
           <Switch>
-            <Route path="/" component={Home}/>
-            </Switch>
+            <Route path="/" component={Contact}/>
+            <Route path="/home" component={Home}/>
             <Route path="/contact" component={Contact} />
-            
+            </Switch>
             </Router>
            {/* </div> */}
         
