@@ -16,6 +16,7 @@ export default class Contact extends React.Component {
             </div>
           </div>
         </section>
+        <hr></hr>
         <div className="tile is-ancestor">
   <div className="tile is-4 is-vertical is-parent">
     <div className="tile is-child box">
